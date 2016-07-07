@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+FOR ${1:}:=${2:} TO ${3:} DO
+BEGIN
+	${4:}
+END;
+]]></content>
+
+	<tabTrigger>FOR</tabTrigger>
+	<scope>source.pascal</scope>
+</snippet>

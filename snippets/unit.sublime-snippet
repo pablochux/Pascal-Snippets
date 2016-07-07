@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+UNIT ${1:TAD};
+INTERFACE
+	${2:CONST}
+	${3:TYPE}
+	${4:VAR}
+{Cabeceras Subprogramas}
+
+IMPLEMENTATION
+{Subprogramas}
+	${5:}
+
+END.
+]]></content>
+	<tabTrigger>UNIT</tabTrigger>
+	<scope>source.pascal</scope>
+</snippet>

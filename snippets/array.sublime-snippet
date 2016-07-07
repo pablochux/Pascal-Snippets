@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+${1:} = ARRAY [${2:}..${3:}] of ${4:};
+	${1:}
+UNTIL (${2:});
+]]></content>
+	<tabTrigger>ARRAY</tabTrigger>
+	<scope>source.pascal</scope>
+</snippet>

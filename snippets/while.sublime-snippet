@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+WHILE (${1:}) DO
+BEGIN
+	${2:}
+END;
+]]></content>
+	<tabTrigger>WHILE</tabTrigger>
+	<scope>source.pascal</scope>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+REPEAT 
+	${1:}
+UNTIL (${2:});
+]]></content>
+	<tabTrigger>REPEAT</tabTrigger>
+	<scope>source.pascal</scope>
+</snippet>

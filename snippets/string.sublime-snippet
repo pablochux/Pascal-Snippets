@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+String;
+${1:}
+]]></content>
+	<tabTrigger>string</tabTrigger>
+	<scope>source.pascal</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+PROCEDURE ${1:} (${2:});
+BEGIN
+	${3:}
+END;
+]]></content>
+	<tabTrigger>PROCEDURE</tabTrigger>
+	<scope>source.pascal</scope>
+</snippet>

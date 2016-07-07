@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+ELSE 
+BEGIN
+	${1:}
+END;
+]]></content>
+	<tabTrigger>ELSE</tabTrigger>
+	<scope>source.pascal</scope>
+</snippet>
