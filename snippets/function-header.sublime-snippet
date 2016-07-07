@@ -1,9 +1,6 @@
 <snippet>
 	<content><![CDATA[
 FUNCTION ${1:} (${2:}): ${3:};
-BEGIN
-	${4:}
-END;
 ]]></content>
 	<tabTrigger>FUNCTION</tabTrigger>
 	<scope>source.pascal</scope>

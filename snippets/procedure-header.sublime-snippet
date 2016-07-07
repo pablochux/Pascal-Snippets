@@ -1,10 +1,7 @@
 <snippet>
 	<content><![CDATA[
-FUNCTION ${1:} (${2:}): ${3:};
-BEGIN
-	${4:}
-END;
+PROCEDURE ${1:} (${2:});
 ]]></content>
-	<tabTrigger>FUNCTION</tabTrigger>
+	<tabTrigger>PROCEDURE</tabTrigger>
 	<scope>source.pascal</scope>
 </snippet>
